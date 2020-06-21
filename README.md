@@ -1,18 +1,15 @@
 # Phrase-to-Scale (PSM) Interactive Music System
 
-The PSM Interactive Music System offers musicians who play monophonic instruments the ability to control the harmonic output of the system by tracking their melodic output.
-PSM Interactive Music System Copyright (C) 2020 Guy Sion, University of Oslo
-
+The PSM Interactive Music System offers musicians who play monophonic instruments the ability to control the harmonic output of the system by tracking their melodic output.  
+PSM Interactive Music System Copyright (C) 2020 Guy Sion, University of Oslo  
 Inquiries: guysionmusic@gmail.com
 
 
 ## REQUIREMENTS
-
-The PSM Interactive Music System is implemented in Cycling '74 Max 8 (Windows 10 64-bit).
-
-The PSM Interactive Music System has been developed and tested on the following platform:
-Windows 10 64-bit
-MAX 8.1.4 (64-bit)
+The PSM Interactive Music System is implemented in Cycling '74 Max 8 (Windows 10 64-bit).  
+The PSM Interactive Music System has been developed and tested on the following platform:  
+Windows 10 (64-bit)  
+MAX 8.1.4 (64-bit)  
 
 The following Cycling '74 Max 8 libraries are required:
 (download the externals and include these in your Max path)
