@@ -1,0 +1,23 @@
+The Timbre Space Analyzer & Mapper (TSAM) is a collection of MAX patches 
+and MATLAB functions for the analysis, modeling and malling of the
+timbre if siund synthesizers.
+
+The Phrase-to-Scale (PSM) Interactive Music System offers musicians who play monophonic instruments
+the ability to control the harmonic output of the system by tracking their melodic output. 
+
+PSM Interactive Music System Copyright (C) 2020 Guy Sion, University of Oslo
+Inquiries: guysionmusic@gmail.com
+
+The PSM Interactive Music System is free software: you can redistribute it and/or modify it under the 
+terms of the GNU Lesser General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later version.
+
+The PSM Interactive Music System is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+See the GNU Less General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with TSAM. 
+If not, see <http://www.gnu.org/licenses/>.
+
+If you use the PSM Interactive Music System or any part of it in any program or publication, please acknowledge 
+its developer.
