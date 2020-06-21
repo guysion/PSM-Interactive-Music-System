@@ -22,7 +22,19 @@ bc.yinstats.mxo (to be placed in externals subfolder)
 yin~.mxe64 or yin~.mxe (to be placed in externals subfolder)
 - Max Sound Box https://forum.ircam.fr/projects/detail/max-sound-box/
 
-## INSTRUCTIONS
+### INCLUDED FILES
+PSM System.maxpat - main Max patch  
+scale.js - PSM algorithm code in JavaScript  
+scale.txt - Max coll file containing scale names and pitch class of each scale  
+Nintendo black white.jpg - Nintendo controller illustration   
+PSM System.maxproj - Max project file   
+Aeolian. G.wav, Dorian. G.wav, Mixolydian. G.wav - 3 audio examples of phrases in different scales   
+### NOT INCLUDED FILES
+OMax.Yin+core.maxpat  
+bc.yinstats.mxe64  
+yin~.mxe64  
+
+## MANUAL
 #### Demo video of the system is available here: https://youtu.be/u-ObVjojjyc
 
 Run the PSM_System.maxpat
